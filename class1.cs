@@ -3,9 +3,13 @@
 {
     public class SS
     {
-        public static void sendMail()
+
+	 private void sendMail()
         {
             //send mail
         }
+        
+    public int A {get; set;} 
+
     }
 }
